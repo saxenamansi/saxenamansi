@@ -1,6 +1,5 @@
 ## Mansi Saxena
 #### Aspiring Data Scientist and Natural Language Processing Engineer | Environmentalist | Dancer
-Hey there! I am Mansi Saxena from Mumbai, India. I enjoy working on data science projects and always look forward to collaborating and discussing new ideas. <br>
 
 Skills: Python | Java | R </br>
 Tools: Jupyter Notebook, Google Colab, Visual Studio, NetBeans, RStudio, Cisco Packet Tracer
