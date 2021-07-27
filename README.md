@@ -9,7 +9,7 @@ Tools: Jupyter Notebook, Google Colab, Visual Studio, NetBeans, RStudio, Cisco P
 - 🌱 I’m currently learning: Sequence models and Analysis of Time Series Data. 
 - 👯 I’m looking to collaborate on: Data Science projects including Natural Language Processing, Computer Vision and Machine Learning. 
 - 🤔 I’m looking for help with: deploying BERT models.
-- 💬 Ask me about: Machine Learning and Deep Learning.
+- 💬 Ask me about: Machine Learning, Deep Learning or Java fundamentals.
 - 📫 How to reach me: You can mail me (immansi@gmail.com), or PM me on [LinkedIn](https://www.linkedin.com/in/mansi-saxena-084b681a2/). Scroll down for other Social Media pages you can contact me on. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love interacting with the development community, so hit me up anytime for any interesting discussions!
