@@ -10,9 +10,9 @@ Tools: Jupyter Notebook, Google Colab, Visual Studio, NetBeans, RStudio, Cisco P
 - 👯 I’m looking to collaborate on Data Science projects including Natural Language Processing, Computer Vision and Machine Learning. 
 - 🤔 I’m looking for help with deploying BERT models
 - 💬 Ask me about how to get started in Machine Learning
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 📫 How to reach me: Reach out to me on my mail immansi!gmail.com. Scroll down for other social media pages I am available on. 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love interacting with the development community, so hit me up for any interesting discussions!
 
 [![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxenamansi)](https://github.com/anuraghazra/github-readme-stats)
 
