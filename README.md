@@ -17,7 +17,6 @@ I am part of the Machine Learning Team @ C4 Projects. <br>
 I enjoy writing blogs and interacting with the programming community. <br>
 I am passionate about volunteering work and am part of the Advisory Team @ VIT LEO Club, after holding the position of Editorial Head for a year. <br>
 Check my blogs at - https://dev.to/saxenamansi <br>
-Find all my work on Github - https://github.com/saxenamansi <br>
 Check my work in Machine Learning on Kaggle: https://www.kaggle.com/mansisaxena <br>
 
 ![GitHub metrics](https://metrics.lecoq.io/saxenamansi)  
