@@ -14,10 +14,9 @@ Tools: Jupyter Notebook, Google Colab, Visual Studio, NetBeans, RStudio, Cisco P
 - ⚡ Fun fact: I love interacting with the development community, so hit me up anytime for any interesting discussions!
 
 I am part of the Machine Learning Team @ [C4 Projects](https://linktr.ee/c4projects) <br>
-I enjoy writing blogs and interacting with the programming community. <br>
-I am passionate about volunteering work and am part of the Advisory Team @ VIT LEO Club, after holding the position of Editorial Head for a year. <br>
-Check my blogs at - https://dev.to/saxenamansi <br>
+I enjoy writing blogs. Check my blogs at - https://dev.to/saxenamansi <br> <br>
 Check my work in Machine Learning on Kaggle: https://www.kaggle.com/mansisaxena <br>
+I am passionate about volunteer work and am part of the Advisory Team @ VIT LEO Club, after holding the position of Editorial Head for a year. <br>
   
 ![Profile views](https://gpvc.arturio.dev/saxenamansi)  
 [![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxenamansi)](https://github.com/anuraghazra/github-readme-stats)
