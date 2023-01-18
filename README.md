@@ -4,14 +4,12 @@
 Skills: Python | Java | R </br>
 Tools: Jupyter Notebook, Google Colab, Visual Studio Code, PyCharm, Cordova
 
-- 🔭 I’m currently working on: An application of Reinforcement Learning to online MOOCs for optimal sequencing for adaptive online courseware to facilitate
-robust learning of interconnected knowledge
+- 🔭 I’m currently working on: Understanding the Ethical and Social considerations on Autonomous Vehicular technology
 - 🌱 I’m currently learning: Reinforcement Learning and Natural Language Processing
 - 💬 Ask me about: Machine Learning, or Deep Learning, Artificial Intelligence
 - 📫 How to reach me: You can mail me (immansi@gmail.com), or PM me on [LinkedIn](https://www.linkedin.com/in/mansi-saxena-084b681a2/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love interacting with the development community, so hit me up anytime for any interesting discussions!
-
   
 ![Profile views](https://gpvc.arturio.dev/saxenamansi)  
 [![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxenamansi)](https://github.com/anuraghazra/github-readme-stats)
