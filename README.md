@@ -1,5 +1,5 @@
 ## Mansi Saxena
-#### NLP Researcher | Environmentalist | Gym-Rat | Coffee-Enthusiast | Cat-Lover 
+#### NLP Researcher | Mental Health | Gym-Rat | Coffee-Enthusiast | Cat-Lover 
 
 I'm a Ph.D. candidate in Computer Science at North Carolina State University with a love for all things data, AI, and NLP! My research revolves around making sense of text—from understanding societal views, trauma narratives and ethical behavior to emotions and empathy (because, hey, machines should get feelings too, right?).
 
